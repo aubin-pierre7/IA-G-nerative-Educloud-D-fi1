@@ -29,7 +29,7 @@ Bonus : création d’illustrations et publication sur les réseaux sociaux
  
  Captures d'écran
 
-[Illustration IA générative](IA_générative.jpg)
+[Illustration IA générative](IA_generative.jpg)
 
 [Composants IA](LLM.jpg)
 
